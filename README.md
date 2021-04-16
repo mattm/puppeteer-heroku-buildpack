@@ -11,7 +11,7 @@ Installs dependencies needed in order to run puppeteer on heroku. Be sure to inc
 To use the latest stable version from source code in this repository:
 
 ```sh-session
-$ heroku buildpacks:set https://github.com/CoffeeAndCode/puppeteer-heroku-buildpack.git
+$ heroku buildpacks:set https://github.com/mattm/puppeteer-heroku-buildpack
 ```
 
 ## Issues
